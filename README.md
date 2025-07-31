@@ -34,3 +34,5 @@ The case was made in onshape and includes a cutout for the usbc port:
 | Stabilizer kit                 | 1        | $19 USD       | [from amazon](https://www.amazon.com/Keyboard-Stabilizers-Mechanical-Keyboards-Switches/dp/B0D2R13N2N/ref=sr_1_1_sspa?crid=2UC7ED8DWWUDM&dib=eyJ2IjoiMSJ9.P4sTVbDzkYqSr2Qe2aEKgUz9OjRmws6DREJdi517d7j9yxmY-mCmIoPxXbUmOFQNayDjFH5Sx7xpnLaN4KOjDOL0SpdCwoeUz22PRWkEPbsXPuUcYROyJJAhYlPQDTz6njqvp06jBaKfk85rN3X2qAGkjYN52kWKGrqK5ZmzdgV61Xb8_8AqggnEFYknCTHt.kM48GyCD-8_UloBzSZMtd7l1z-blnw8Z4I1GEPk9-0M&dib_tag=se&keywords=mx%2Bstabs&qid=1753349468&s=electronics&sprefix=mx%2Bstabs%2Celectronics%2C166&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 | RP2040 MCU board               | 1        | $1.20        | [pi-shop](https://www.pishop.us/product/raspberry-pi-rp2040/) |
 | PCBs (×5, incl. shipping & tax) | 5        | $29.29       | using jlcpcb                               |
+
+total price = $119.49
