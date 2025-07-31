@@ -22,7 +22,6 @@ The case was made in onshape and includes a cutout for the usbc port:
 
 ![Full Case in Onshape](images/full_angle_cad.png)
 
-![image showing the hole for usbc connector in the case](images/angle_usbc_cad.png)
 
 ## BOM
 
