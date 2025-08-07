@@ -1,24 +1,9 @@
-Reference,Qty,link,Price($)
-boot and reset switch,2,TS-1187A-B-A-B,0.03
-1u capacitor,5,https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923,0.03
-22p capacitor,2,https://jlcpcb.com/partdetail/1907-0402CG220J500NT/C1555,0.03
-100n capacitor,8,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525,0.01
-10u capacitor,1,https://jlcpcb.com/partdetail/-TAJA106K016RNJ/C7171,0.15
-1N14148 diodes,66,https://jlcpcb.com/partdetail/2485-1N4148WS/C2128,0.1
-Fuse,1,jlc doesn't have currently,0.3
-USBC receptacle,1,HRO_TYPE-C-31-M-12,
-JST connector,1,jlc doesn't have currently,0.3
-"MX1,MX2,MX3,MX4,MX5,MX6,MX7,MX8,MX9,MX10,MX11,MX12,MX13,MX14,MX15,MX17,MX18,MX19,MX20,MX21,MX22,MX23,MX24,MX25,MX26,MX27,MX28,MX30,MX32,MX33,MX34,MX35,MX36,MX37,MX38,MX39,MX40,MX41,MX42,MX43,MX44,MX45,MX46,MX47,MX48,MX49,MX50,MX51,MX52,MX53,MX54,MX55,MX56,MX58,MX60,MX64,MX65,MX66,MX16,MX29, MX57,MX59,MX61,MX62,MX63, MX31",66,110 hotswap sockets,14
-cherry switches,66,65 brown chery mx switches,50
-"R1,R2,R5,R6,R7",5,https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186,0.01
-"R3,R4",2,https://jlcpcb.com/partdetail/18282-0805W8F270JT5E/C17594,0.01
-"R8,R9",2,https://jlcpcb.com/partdetail/4817-1206W4F1001T5E/C4410,0.01
-all the stabs,1,nice stab kit that works for me,19
-XC6206 voltage regulator,1,https://jlcpcb.com/partdetail/TorexSemicon-XC6206P332MRG/C5446,0.1
-ESD,1,rp2040,1.2
-the brain,1,https://www.pishop.us/product/raspberry-pi-rp2040/?src=raspberrypi,1.2
-the flash,1,https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C97521,1
-12 mhz crystal,1,https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322512MSB4SI/C9002,0.08
-total price before pcb + expected taxes and shipping ,,,105.072
-pcb from jlcpcb + shipping and handling and tax,5,,29.29
-total price after pcb,,,134.362
+Reference,Qty,link,Price($),
+"MX1,MX2,MX3,MX4,MX5,MX6,MX7,MX8,MX9,MX10,MX11,MX12,MX13,MX14,MX15,MX17,MX18,MX19,MX20,MX21,MX22,MX23,MX24,MX25,MX26,MX27,MX28,MX30,MX32,MX33,MX34,MX35,MX36,MX37,MX38,MX39,MX40,MX41,MX42,MX43,MX44,MX45,MX46,MX47,MX48,MX49,MX50,MX51,MX52,MX53,MX54,MX55,MX56,MX58,MX60,MX64,MX65,MX66,MX16,MX29, MX57,MX59,MX61,MX62,MX63, MX31",1,110 hotswap sockets,14,14
+cherry switches,1,65 brown chery mx switches,50,50
+rp pi pico usbc,1,Amazon.com: 3PCS RP2040 Core Board Type-C USB-C for Raspberry Core Board 16MB for Raspberry Pi Pico Micropython : Electronics,14,14
+all the stabs,1,nice stab kit that works for me,19,19
+ws2182b LED,66,WS2812B-3528 | JLCPCB Assembly | New Arrivals | JLCPCB,0.04,2.64
+total price before pcb + expected taxes and shipping ,,,119.568,
+pcb from jlcpcb + shipping and handling and tax,5,,29.29,
+total price after pcb,,,148.858,
